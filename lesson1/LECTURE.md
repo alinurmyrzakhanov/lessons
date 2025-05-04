@@ -86,13 +86,4 @@ $ go run ./...
 Hello, Go!
 ```
 
-### Exercise 2
 
-Use the code from **exercise 1**. And print number of time supplied from the cli argument. Default is **1**.
-
-```shell
-$ go run ./... 3
-Hello, Go!
-Hello, Go!
-Hello, Go!
-```
